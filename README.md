@@ -8,10 +8,15 @@
 수정한 내용을 저장하고,
 
 vscode에서
+
 $ git add .
+
 $ git comit -m '~~~~~~~~~~'
+
 $ git push origin master
+
 다시 실행하고,
 
 github 창에서 새로고침(F5)하기
+
 *push : github에 올리는 행위
